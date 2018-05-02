@@ -1,5 +1,7 @@
 # GivemyspaceWebApplication
 
+[![Build Status](https://travis-ci.org/GiveMySpace/givemyspace-web-application.svg?branch=master)](https://travis-ci.org/GiveMySpace/givemyspace-web-application)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 ES6
 
